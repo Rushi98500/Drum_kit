@@ -6,7 +6,7 @@ This project is a fun, interactive drum kit built with React and Tailwind CSS. U
 
 ## Preview
 
-![React Drum Kit](Drum_kit.jpg) <!-- Replace `preview-link.jpg` with the actual link to your project's screenshot or GIF -->
+![React Drum Kit](/Users/rushikesh_yewale/Desktop/REACT/React-30days/drum-kit-01/public/Drum_kit.jpg) <!-- Replace `preview-link.jpg` with the actual link to your project's screenshot or GIF -->
 
 ## Features
 
@@ -35,14 +35,3 @@ git clone https://your-repository-link.git
 cd react-drum-kit
 
 
-
-2. Install dependencies:
-
-```bash
-npm install
-
-
-3. Start the development server:
-
-```bash
-npm run dev
