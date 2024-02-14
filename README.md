@@ -6,7 +6,9 @@ This project is a fun, interactive drum kit built with React and Tailwind CSS. U
 
 ## Preview
 
-![React Drum Kit](/Users/rushikesh_yewale/Desktop/REACT/React-30days/drum-kit-01/public/Drum_kit.jpg) <!-- Replace `preview-link.jpg` with the actual link to your project's screenshot or GIF -->
+Check out the live demo here: [React Drum Kit Live Demo](https://65cc4cbf0aab996bb027bfe2--fantastic-melba-aea03f.netlify.app)
+
+![React Drum Kit](/Users/rushikesh_yewale/Drum_kit.jpg) <!-- Replace `preview-link.jpg` with the actual link to your project's screenshot or GIF -->
 
 ## Features
 
